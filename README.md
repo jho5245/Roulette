@@ -9,11 +9,11 @@
  - 배경, 룰렛 버튼, 룰렛 요소 이미지를 data에 넣어 커스터마이징 가능
 
 ## 폴더 구조
-### ./
+### ./demo
  * Roulette.jar - 소스 코드 jar 파일  
  * 설명서 같은거.txt - 간단한 설명 텍스트 파일  
  * 나를 실행해.cmd - jar 파일을 실행하는 명령어 실행기  
-### ./data  
+### ./demo/data  
  - Background.png - 배경 이미지 (960x480)
  - Button.png - 돌리기 버튼 (90x40)
  - init_result.png - 초기 화면 (720x240)
